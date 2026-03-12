@@ -10,7 +10,7 @@ Operations Manager
 -
 -
 
-# Projects
+### Projects
 -SQL & Power BI
 -SQL & Power BI
 -SQL & Power BI
